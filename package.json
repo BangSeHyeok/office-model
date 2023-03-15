@@ -1,5 +1,5 @@
 {
-  "homepage": "http://{gitID}.github.io/{react-project-name}",
+  "homepage": "http://{gitID}.github.io/{react-project-name}/",
   "name": "react-office",
   "version": "0.1.0",
   "private": true,
